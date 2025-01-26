@@ -3,6 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umeriftikhar1988&label=Profile%20views&color=0e75b6&style=flat" alt="umeriftikhar1988" /> </p>
 
+- 📫 My expertise are **
 - 🌱 I’m currently learning **AWS, GCP, Azure, Kubernetes, and Docker to master deploying machine learning and AI solutions at scale. Building expertise in cloud-native and containerized applications**
 
 - 📫 How to reach me **umeriftikhar1988@gmail.com**
